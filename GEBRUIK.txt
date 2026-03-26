@@ -2,7 +2,12 @@ WhatsApp herinnering openen
 ===========================
 
 1. Dubbelklik op: open_chat.command
-2. De chat opent automatisch in de browser.
+2. De pagina opent in de browser.
+3. Klik op "Open een WhatsApp ZIP lokaal", kies de ZIP-export en klik "Laad ZIP".
+
+Privacy:
+- De ZIP wordt alleen lokaal in de browser gelezen.
+- Het bestand wordt niet naar de server geupload.
 
 Afbeeldingen instellen:
 - Zet 1 foto in de map "profilepicture" voor de profielfoto bovenin.
@@ -14,4 +19,5 @@ Tekst onderin:
 - Pas "composer_placeholder.txt" aan om de tekst in de visuele typbalk onderin te wijzigen.
 
 Optioneel:
+- Zet een exportmap met "_chat.txt" in dit project voor een standaardchat zonder ZIP upload.
 - Dubbelklik op "stop_chat.command" om de lokale server te stoppen.
