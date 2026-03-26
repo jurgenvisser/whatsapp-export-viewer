@@ -928,7 +928,7 @@ $lastDateKey = null;
 
         .bubble {
             max-width: min(85vw, 440px);
-            border-radius: 14px;
+            border-radius: 12px;
             padding: 6px 8px 4px;
             position: relative;
             box-shadow: var(--wa-shadow);
