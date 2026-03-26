@@ -1,0 +1,17 @@
+WhatsApp herinnering openen
+===========================
+
+1. Dubbelklik op: open_chat.command
+2. De chat opent automatisch in de browser.
+
+Afbeeldingen instellen:
+- Zet 1 foto in de map "profilepicture" voor de profielfoto bovenin.
+- Zet 1 foto in de map "myprofilepicture" voor jouw eigen avatar in uitgaande voice memo's.
+- Zet 1 foto in de map "background" voor de chat-achtergrond.
+- Als er meerdere bestanden in zo'n map staan, wordt automatisch het nieuwste bestand gebruikt.
+
+Tekst onderin:
+- Pas "composer_placeholder.txt" aan om de tekst in de visuele typbalk onderin te wijzigen.
+
+Optioneel:
+- Dubbelklik op "stop_chat.command" om de lokale server te stoppen.

@@ -1,0 +1,8 @@
+# OS / lokale runtime
+.DS_Store
+.php-server.log
+
+# WhatsApp export (privacy)
+WhatsApp Chat - */
+WhatsApp Chat - *.zip
+*_chat.txt
